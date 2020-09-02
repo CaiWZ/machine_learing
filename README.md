@@ -1,4 +1,4 @@
-# mechine_learing
+# machine_learing
 # 前言
 李航《统计学习方法》复现，参考实现
 Mnist数据集为csv逗号分隔符
