@@ -7,5 +7,5 @@ Mnist数据集为csv逗号分隔符
 博客讲解[csnd博客链接](https://blog.csdn.net/qq_37492509/article/details/108304863)
 # KNN
 2.第二章K近邻法,[KNN](https://github.com/CaiWZ/machine_learing/blob/master/KNN.py)
-[CSDN博客]()
+[CSDN博客](https://blog.csdn.net/qq_37492509/article/details/108359992)
 
