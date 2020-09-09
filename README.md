@@ -8,4 +8,7 @@ Mnist数据集为csv逗号分隔符
 # KNN
 2.第二章K近邻法,[KNN](https://github.com/CaiWZ/machine_learing/blob/master/KNN.py)，
 [CSDN博客](https://blog.csdn.net/qq_37492509/article/details/108359992)
+# 朴素贝叶斯
+3. 第三章，[朴素贝叶斯公](https://github.com/CaiWZ/machine_learing/blob/master/NaiveBayes.py)
+
 
