@@ -12,4 +12,6 @@ Mnist数据集为csv逗号分隔符
 3.第三章，[朴素贝叶斯](https://github.com/CaiWZ/machine_learing/blob/master/NaiveBayes.py)
 # 决策树
 4.第四章，[决策树实现](https://github.com/CaiWZ/machine_learing/blob/master/DecisionTree.py)
+# 逻辑斯蒂回归与最大熵模型
+5.第五章，-[逻辑斯蒂回归](https://github.com/CaiWZ/machine_learing/blob/master/logisticRegression.py)  
 
