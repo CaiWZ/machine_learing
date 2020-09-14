@@ -13,5 +13,6 @@ Mnist数据集为csv逗号分隔符
 # 决策树
 4.第四章，[决策树实现](https://github.com/CaiWZ/machine_learing/blob/master/DecisionTree.py)
 # 逻辑斯蒂回归与最大熵模型
-5.第五章，-[逻辑斯蒂回归](https://github.com/CaiWZ/machine_learing/blob/master/logisticRegression.py)  
+5.1.第五章，-[逻辑斯蒂回归](https://github.com/CaiWZ/machine_learing/blob/master/logisticRegression.py)  
+5.2 第五章，[最大熵](https://github.com/CaiWZ/machine_learing/blob/master/maxEntropy.py)
 
